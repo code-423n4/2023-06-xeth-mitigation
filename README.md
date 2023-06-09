@@ -1,7 +1,7 @@
-# Sponsorname - Mitigation Review details
-- Total Prize Pool: XXX XXX 
+# xETH - Mitigation Review details
+- Total Prize Pool: $6,500 USDC 
 - [Warden guidelines for C4 mitigation reviews](https://code4rena.notion.site/Guidelines-for-C4-mitigation-reviews-ed10fc5cfbf640bd8dcec66f38b343c4)
-- Submit findings [using the C4 form](https://code4rena.com/contests/YYYY-MM-sponsorName-mitigation-review/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2023-06-xeth-mitigation-mitigation-review/submit)
 - Starts TBD XXX XXX XX 20:00 UTC (ex. `Starts March 22, 2023 20:00 UTC`)
 - Ends TBD XXX XXX XX 20:00 UTC (ex. `Ends March 30, 2023 20:00 UTC`)
 
