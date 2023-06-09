@@ -13,7 +13,16 @@ Each warden must submit a mitigation review for *every High and Medium finding* 
 
 Mitigations of all High and Medium issues will be considered in-scope and listed here.
 
-- [H-01: Title](link to Github issue)
+- [M-01: Rebalance amounts should be checked so that updated balances falls within thresholds](https://github.com/code-423n4/2023-05-xeth-findings/issues/35)
+- [M-02: Inconsistent check for LP balance in AMO](https://github.com/code-423n4/2023-05-xeth-findings/issues/33)
+- [M-03: Zero token transfer can cause a potential DoS in CVXStaker](https://github.com/code-423n4/2023-05-xeth-findings/issues/30)
+- [M-04: Unspent allowance may break functionality in AMO](https://github.com/code-423n4/2023-05-xeth-findings/issues/29)
+- [M-05: Virgin stake can claim all drops](https://github.com/code-423n4/2023-05-xeth-findings/issues/23)
+- [M-06: Inflation attack by token transfer](https://github.com/code-423n4/2023-05-xeth-findings/issues/21)
+- [M-07: Incorrect slippage check in the AMO2.rebalanceUp can be attacked by MEV](https://github.com/code-423n4/2023-05-xeth-findings/issues/14)
+- [M-08: CVXStaker.sol Unable to process newly add rewardTokens](https://github.com/code-423n4/2023-05-xeth-findings/issues/8)
+- [M-09: withdrawAllAndUnwrap() the clpToken transfer to AMO.sol may be locked in the contract](https://github.com/code-423n4/2023-05-xeth-findings/issues/6)
+- [M-10: First 1 wei deposit can produce lose of user xETH funds in wxETH](https://github.com/code-423n4/2023-05-xeth-findings/issues/3)
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
 
