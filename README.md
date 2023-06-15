@@ -26,7 +26,6 @@ Mitigations of all High and Medium issues will be considered in-scope and listed
 
 - Many issues assume a rogue defender as a starting point of attack, so we have chosen to add more granularity of parameters and checks to reduce risks there.
 - Most mitigations would either be checks, or smaller changes of function parameters and calls
-- 2 issues will be solved at the time of deployment by minting deadshares, to avoid first staker attacks.
 - In production we have planned to use MEV Protection services such as flashbots rpc
 
 ## Mitigations to be reviewed
@@ -46,6 +45,6 @@ The mitigations are already commited in a branch and they are in individual comm
 
 ## Out of Scope
 
-M-01 and M-06 will not have fixes in the code. At the time of deployment:
+2 issues (M-01 and M-06) will be solved at the time of deployment by minting deadshares, to avoid first-staker attacks. 
 - We will mint shares through a multi-sig
 - We will transfer these shares to a contract (that has no way of redeeming these funds and is just created for holding these shares).
