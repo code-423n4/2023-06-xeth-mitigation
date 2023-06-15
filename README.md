@@ -1,9 +1,9 @@
 # xETH - Mitigation Review details
 - Total Prize Pool: $6,500 USDC 
 - [Warden guidelines for C4 mitigation reviews](https://code4rena.notion.site/Guidelines-for-C4-mitigation-reviews-ed10fc5cfbf640bd8dcec66f38b343c4)
-- Submit findings [using the C4 form](https://code4rena.com/contests/2023-06-xeth-mitigation-mitigation-review/submit)
-- Starts June 15, 2023 20:00 UTC (ex. `Starts March 22, 2023 20:00 UTC`)
-- Ends June 20, 2023 20:00 UTC (ex. `Ends March 30, 2023 20:00 UTC`)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2023-06-xeth-mitigation-review/submit)
+- Starts June 15, 2023 20:00 UTC 
+- Ends June 20, 2023 20:00 UTC 
 
 ## Important note 
 
