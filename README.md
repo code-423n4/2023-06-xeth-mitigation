@@ -30,7 +30,7 @@ Mitigations of all High and Medium issues will be considered in-scope and listed
 
 ## Mitigations to be reviewed
 
-The mitigations are already commited in a branch and they are in individual commits.
+The mitigations are already commited in [this branch](https://github.com/code-423n4/2023-05-xeth/tree/add-xeth) and they are in individual commits.
 
 | URL | Mitigation of | Purpose | 
 | ----------- | ------------- | ----------- |
